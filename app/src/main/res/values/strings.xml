@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lightwand</string>
+    <string name="starting">Starting App...</string>
+    <string name="statuslabel">Status:</string>
+    <string name="rxlabel">RX:</string>
+    <string name="pairedbuttoncaption">Show paired lightwands</string>
+    <string name="discoverbuttoncaption">Discover New lightwands</string>
+    <string name="radiooffbuttoncaption">Bluetooth OFF</string>
+    <string name="radioonbuttoncaption">Bluetooth ON</string>
+    <string name="abortbuttoncaption">ABORT</string>
+    <string name="startbuttoncaption">START</string>
+    <string name="brightnesslabel">Brightness:</string>
+    <string name="delaylabel">Delay:</string>
+    <string name="camerauponstartcaption">Open Camera Upon Starting</string>
+
+    <string name="title_activity_camera">Camera</string>
+    <string name="dummy_button">STARTING...</string>
+
+</resources>
